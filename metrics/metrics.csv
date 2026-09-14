@@ -1,1 +1,5 @@
 timestamp,provider,model,tokens_prompt,tokens_completion,total_tokens,latency_ms,estimated_cost_usd
+2026-09-12T17:59:22.604608+00:00,gemini,gemini-2.5-flash-lite,643,105,748,1140.94,0.0001063
+2026-09-14T00:18:48.753882+00:00,gemini,gemini-2.5-flash-lite,735,134,869,1314.69,0.0001271
+2026-09-14T12:47:22.483774+00:00,gemini,gemini-2.5-flash-lite,743,134,877,2492.58,0.0001279
+2026-09-14T12:48:05.311926+00:00,gemini,gemini-2.5-flash-lite,720,87,807,2916.37,0.0001068
